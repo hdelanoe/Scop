@@ -1,4 +1,6 @@
 lib/libft/.obj
 lib/lib34/.obj
+lib/libft/libft.a
+lib/lib34/lib34.a
 .obj
 scop
